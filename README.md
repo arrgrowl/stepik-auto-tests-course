@@ -1,4 +1,4 @@
 # stepik-auto-tests-course
-homework
+Homework for course 'Python Selenium Automation Test Course'
 
-lesson13_step1_link = 'https://stepik.org/lesson/187065/step/7?unit=161976'
+Link = 'https://stepik.org/course/575/syllabus'
